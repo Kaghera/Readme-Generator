@@ -36,4 +36,4 @@ Github: [https://github.com/kaghera]
 
 Email:[kaagh.10@gmail.com]
 
- [![GitHub forks](https://img.shields.io/github/forks/Kaghera/Good-README-Generator)](https://github.com/Kaghera/Good-README-Generator/network)
+[![GitHub forks](https://img.shields.io/github/forks/Kaghera/Readme-Generator)](https://github.com/Kaghera/Readme-Generator/network)
